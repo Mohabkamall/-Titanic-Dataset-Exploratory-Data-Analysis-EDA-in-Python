@@ -5,6 +5,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 📁 Dataset
 Source: Titanic Dataset – Kaggle
+
 Contains demographic and travel data for passengers, including survival status, age, class, gender, and more.
 
 🎯 Objectives
