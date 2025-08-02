@@ -1,6 +1,5 @@
 # 🚢Titanic-Dataset-Exploratory-Data-Analysis-EDA-in-Python
-![](https://www.encyclopedia-titanica.org/images/titanic-sailing.jpg)
-
+![](https://media.licdn.com/dms/image/v2/C4D12AQHsDRbH7GXOZg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1604989195408?e=2147483647&v=beta&t=zxYL7VY8G60l8eJcDQ9gmrbn4oaECe_50ocgVNO_Dqw)
 ## 📝 Task Overview 
 
 This project presents an Exploratory Data Analysis (EDA) on the classic Titanic: Machine Learning from Disaster dataset. The goal is to uncover insights from passenger data that influenced survival outcomes during the Titanic tragedy.
@@ -13,6 +12,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 - Contains demographic and travel data for passengers, including survival status, age, class, gender, and more.
 
+---
 
 ## 🎯 Objectives:
 
@@ -22,6 +22,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 - Visualize data patterns and correlations to understand what factors influenced survival.
 
+---
 
 ## 🛠️ Tools & Libraries Used:
 
@@ -31,6 +32,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 - Seaborn / Matplotlib – for data visualization.
 
+---
 
 ## 📊 Key Analysis Performed:
 
@@ -48,6 +50,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 - Bar plots and count plots for visualizing survival patterns
 
+---
 
 ## 📈 Bonus Visualizations:
 
@@ -57,6 +60,7 @@ This project presents an Exploratory Data Analysis (EDA) on the classic Titanic:
 
 - Age distribution and survival density plots
 
+---
 
 ## 💡 Skills Demonstrated:
 
